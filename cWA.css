@@ -1,0 +1,51 @@
+header{
+    font-size: 300%;
+    background-color: black;
+    font-style: italic;
+    color: white;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
+
+.card{
+    width: auto;
+    height: auto;
+    justify-content: center;
+    text-align: center;
+    min-width: inherit;
+}
+
+ul{
+    list-style-type: none;
+  }
+
+.container{
+    display: block;
+   /* justify-content: flex-start; */
+
+}
+
+#results-container{
+    background-color: whitesmoke;
+}
+
+#five-day{
+    justify-content: center;
+}
+.col { 
+    border:1px solid;
+    flex: auto; 
+}
+.cw {
+    font-size: xx-large;
+    color: blue;
+    font-weight: bolder;
+    padding: 10px;
+    border: black;
+}
+.cwName {
+    background-color: black;
+    font-size: xx-large;
+    color: white;
+}
